@@ -1,4 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
+import { cut } from "nodejs-jieba";
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
@@ -29,7 +30,7 @@ export default hopeTheme({
 
   // 多语言配置
   metaLocales: {
-    editLink: "在 GitHub 上编辑此页",
+    editLink: "帮助改善此页",
   },
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
@@ -53,6 +54,10 @@ export default hopeTheme({
     git: true,
     searchPro: {
       indexContent: true,
+      indexOptions: {
+        tokenize: (text, fieldName) =>
+          fieldName === "id" ? [text] : cut(text, true),
+      },
     },
     mdEnhance: {
       align: true,
