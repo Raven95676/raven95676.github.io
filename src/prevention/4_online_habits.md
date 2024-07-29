@@ -55,8 +55,11 @@ order: 4
 2. 窗口左侧打开->本地用户和组->双击 “用户”
 3. 在窗口右侧空白区域右键->新用户
 4. 如图，然后点创建
+5. 双击右侧的Administrator，进入，把账户已禁用勾上
 
 ![新用户创建页面](https://ooo.0x0.ooo/2024/07/28/ORlxUX.jpg)
+
+![禁用Administrator](https://ooo.0x0.ooo/2024/07/29/ORjKcG.jpg)
 
 > [!note]
 > 本节接受了firedoge的指正
