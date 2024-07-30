@@ -53,7 +53,7 @@ systemreset -factoryreset
 
 ![重置方式](https://ooo.0x0.ooo/2024/07/29/ORj7Pq.jpg)
 
-## 杀毒之后键鼠无法使用
+## 杀毒之后键盘鼠标无法使用
 
 参见四海一叶秋：[卡巴斯基重启清除后鼠标键盘无法使用的2个解决方法](https://tieba.baidu.com/p/7828184528)
 

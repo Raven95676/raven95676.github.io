@@ -1,5 +1,4 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { cut } from "nodejs-jieba";
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
@@ -52,28 +51,20 @@ export default hopeTheme({
     },
 
     git: true,
-    searchPro: {
-      indexContent: true,
-      indexOptions: {
-        tokenize: (text, fieldName) =>
-          fieldName === "id" ? [text] : cut(text, true),
-      },
+    search: {
+      isSearchable: (page) => page.path !== '/',
     },
     mdEnhance: {
       align: true,
       attrs: true,
       alert: true,
-      codetabs: true,
       component: true,
-      demo: false,
       mermaid: true,
       figure: true,
       imgLazyload: true,
       imgSize: true,
       include: true,
       mark: true,
-      plantuml: false,
-      spoiler: true,
       stylize: [
         {
           matcher: "Recommended",

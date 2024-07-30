@@ -16,7 +16,9 @@ actions:
     link: ./contributors
 ---
 > [!important]
-> 所有由Raven95676创建的条目均为个人经验，会尽可能保证其准确性。
+> 由于搜索插件[@vuepress/plugin-search](https://ecosystem.vuejs.press/zh/plugins/search/search.html)的限制，该网站暂不支持全文搜索，仅可搜索准确的页面标题。
+>
+> 准确的页面标题即：搜索可以少字但不能错字。如，键盘鼠标可以被“键”、“鼠”搜到但是不能被“键鼠”搜到。
 
 ## 历程
 
