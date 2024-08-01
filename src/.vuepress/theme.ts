@@ -47,7 +47,7 @@ export default hopeTheme({
     //  },
 
     components: {
-      components: ["VPCard"],
+      components: ["VPCard","Badge"],
     },
 
     git: true,
@@ -61,6 +61,7 @@ export default hopeTheme({
       component: true,
       mermaid: true,
       figure: true,
+      footnote: true,
       imgLazyload: true,
       imgSize: true,
       include: true,

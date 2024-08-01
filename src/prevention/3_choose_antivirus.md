@@ -9,12 +9,15 @@ isOriginal: true
 order: 3
 ---
 > [!note]
-> 本文接受了G5125872的指正
+> 本文接受了G5125872、shenapex的指正
 
-首先，推荐先去看看G5125872所写的[关于杀毒软件的推荐](https://tieba.baidu.com/p/7741777833)
+首先，推荐先去看看病毒吧官方所写的[电脑常见问题汇总解答（病毒吧）](https://docs.qq.com/doc/DSU9mbmt5SHp2YmFS)
 
-> [!tip]
-> 由于本人暂未申请转载授权，总结完成的杀毒软件推荐表格请前往[电脑常见问题汇总解答（病毒吧）](https://docs.qq.com/doc/DSU9mbmt5SHp2YmFS)进行查阅。
+## 省流
+
+感谢《电脑常见问题汇总解答（病毒吧）》文档负责人的授权
+
+![2024-08-01截取，已获得转载授权](https://ooo.0x0.ooo/2024/08/01/OR3XAL.png)
 
 ## 360的优势与劣势
 

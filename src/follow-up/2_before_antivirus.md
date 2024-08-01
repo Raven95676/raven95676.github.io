@@ -46,11 +46,9 @@ order: 2
 
 不过卡巴斯基有一个叫做[Kaspersky Rescue Disk](https://www.kaspersky.com.cn/downloads/thank-you/free-rescue-disk)的急救盘，详细体验请前往[反向种草！卡巴斯基急救盘（KRD）试用体验报告！](https://post.smzdm.com/p/a5dxn0g8/)查看
 
-### 我没提前准备好怎么办
+### 我没准备怎么办/没有PE怎么办
 
-1. ~~请移驾电脑店~~
-2. 去网吧开台机子整
-3. 有可联网pe的，直接在pe里面下载
+参见[我系统已经坏了怎么办？](https://raven95676.github.io/prevention/7_why_windows_pe.html#%E6%88%91%E7%B3%BB%E7%BB%9F%E5%B7%B2%E7%BB%8F%E5%9D%8F%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E)
 
 ## 在系统内使用
 
@@ -58,20 +56,14 @@ order: 2
 
 ## 在Windows PE中使用
 
-以EasyU为例。微PE工具箱同理（[自定义壁纸](https://www.pixiv.net/artworks/112139971)请忽略）
+以EasyU<Badge text="具有流氓行为，不推荐使用" type="danger" />为例。其他PE同理（[自定义壁纸](https://www.pixiv.net/artworks/112139971)请忽略）
 
 ![360_jijiuxiang_pe_easyu.gif](https://s2.loli.net/2024/07/29/uK1IcRZkzr5FexA.gif)
 
 ## 一切手段全部失效时
 
-这种情况可以通过pe重置系统。首先，你需要把系统镜像下载下来，放到u盘里面
+可以用PE重置系统，方法参见[制作WindowsPE以备不时之需](https://raven95676.github.io/prevention/7_why_windows_pe.html)中有关于各个pe的介绍。
 
-### EasyU
+### 没有PE怎么办
 
-![system_reset_easyu.gif](https://s2.loli.net/2024/07/29/NY2bl4FwIDRVHEs.gif)
-
-你的镜像将在左侧“恢复镜像”栏显示
-
-### 微PE工具箱
-
-请参照：[安装器方法安装原版Windows](https://www.wepe.com.cn/ubook/installtool.html)
+参见[我系统已经坏了怎么办？](https://raven95676.github.io/prevention/7_why_windows_pe.html#%E6%88%91%E7%B3%BB%E7%BB%9F%E5%B7%B2%E7%BB%8F%E5%9D%8F%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E)

@@ -59,14 +59,8 @@ systemreset -factoryreset
 
 ## 系统无法启动
 
-这种情况可以通过pe重置系统。首先，你需要把系统镜像下载下来，放到u盘里面
+可以用PE重置系统，方法参见[制作WindowsPE以备不时之需](https://raven95676.github.io/prevention/7_why_windows_pe.html)中有关于各个pe的介绍。
 
-### EasyU
+### 没有PE怎么办
 
-![system_reset_easyu.gif](https://s2.loli.net/2024/07/29/NY2bl4FwIDRVHEs.gif)
-
-你的镜像将在左侧“恢复镜像”栏显示
-
-### 微PE工具箱
-
-请参照：[安装器方法安装原版Windows](https://www.wepe.com.cn/ubook/installtool.html)
+参见[我系统已经坏了怎么办？](https://raven95676.github.io/prevention/7_why_windows_pe.html#%E6%88%91%E7%B3%BB%E7%BB%9F%E5%B7%B2%E7%BB%8F%E5%9D%8F%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E)
