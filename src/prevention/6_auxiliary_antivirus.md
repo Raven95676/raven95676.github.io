@@ -35,7 +35,7 @@ Kaspersky® Anti-Ransomware Tool是由卡巴斯基实验室出品的，是ksn和
 
 如果你不能明确主防的完善程度与策略，请不要安装第二个杀毒软件。
 
-2024-08-02 补充：目前来说较为科学的搭配方案（有待继续补充）：
+## 目前来说较为科学的搭配方案<Badge text="有待继续补充" type="warning" />
 
 > [!important]
 > 这里 ==**不是**== 杀毒软件推荐，这里是较为科学的搭配方案。
@@ -44,18 +44,17 @@ Kaspersky® Anti-Ransomware Tool是由卡巴斯基实验室出品的，是ksn和
 >
 > 无论何时都 ==**不建议**== 使用不科学的搭配方案。
 >
-> 下面的火绒安全软件请注意版本，5.0已经过验证，6.0暂无数据。
+> 以下内容为本人经验，且理论上和实际应用上均没有问题。
 >
 > 是 ==**Kaspersky Anti-Ransomware Tool**== ，不是 ==**卡巴斯基反病毒软件**== ，不是 ==**卡巴斯基安全软件**== ，不是 ==**卡巴斯基全方位安全软件**== ，不是 ==**卡巴斯基标准版**== ，不是 ==**卡巴斯基优选版**== ，不是 ==**卡巴斯基免费版**== 。
 >
 > AVAST必须开启被动模式（即用户手动禁用主防），不开启则 ==**无法与任何杀毒软件共存**== 。
 >
-> 扫描器 ==**不包含**== 360系统急救箱。且 ==**不保证**== 全盘扫描不与现有杀毒软件冲突。
+> 这里提到的扫描器 ==**不包含**== 360系统急救箱。且 ==**不保证**== 全盘扫描不与现有杀毒软件冲突。
 >
 > 即便兼容，也建议将辅助工具添加到排除项。
 
 - [ESET Internet Security](https://www.eset.com/cn/) 与 [Kaspersky Anti-Ransomware Tool](https://www.kaspersky.com/anti-ransomware-tool)
-- [火绒安全软件5.0](https://www.huorong.cn/person/person5) 与 [Kaspersky Anti-Ransomware Tool](https://www.kaspersky.com/anti-ransomware-tool)
 - 任意主流杀毒软件 与 [360文档卫士](https://weishi.360.cn/wendangweishi.html)
 - 任意主流杀毒软件 与 AVAST被动模式
 - 任意主流杀毒软件 与 自定义扫描的任意非急救箱扫描器
