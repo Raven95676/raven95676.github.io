@@ -1,18 +1,18 @@
 ---
 home: true
-icon: home
+icon: fas fa-home
 title: 主页
 heroImage: https://ooo.0x0.ooo/2024/07/28/ORVf2r.png
 heroText: 非官方病毒吧Windows FAQ
 tagline: 这里是吧友们可能会问的问题，非病毒吧官网。
 actions:
   - text: 开始阅览
-    icon: book-open
+    icon: fas fa-book-open
     link: ./prevention/
     type: primary
 
   - text: 贡献者名录
-    icon: users
+    icon: fas fa-users
     link: ./contributors
 ---
 > [!important]

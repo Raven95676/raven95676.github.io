@@ -2,7 +2,7 @@
 title: 杀毒软件扫描到病毒了，怎么办？
 author: Raven95676
 date: 2024-07-28
-icon: file
+icon: fas fa-file
 category:
   - 后继措施
 isOriginal: true

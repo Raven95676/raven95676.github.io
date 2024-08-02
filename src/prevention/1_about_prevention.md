@@ -2,7 +2,7 @@
 title: 关于预先防毒不得不知的部分
 author: Raven95676
 date: 2024-07-29
-icon: file
+icon: fas fa-file
 category:
   - 预先防毒
 isOriginal: true

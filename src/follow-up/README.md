@@ -1,6 +1,6 @@
 ---
 title: 后继措施
-icon: shield-virus
+icon: fas fa-shield-virus
 index: false
 ---
 <Catalog/>

@@ -2,7 +2,7 @@
 title: 杀毒软件无法启动怎么办
 author: Raven95676
 date: 2024-07-29
-icon: file
+icon: fas fa-file
 category:
   - 后继措施
 isOriginal: true

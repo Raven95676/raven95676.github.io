@@ -1,6 +1,6 @@
 ---
 title: 实用小技巧
-icon: star
+icon: fas fa-star
 index: false
 ---
 <Catalog/>

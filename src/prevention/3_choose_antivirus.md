@@ -2,7 +2,7 @@
 title: 如何选择杀毒软件
 author: Raven95676
 date: 2024-07-29
-icon: file
+icon: fas fa-file
 category:
   - 预先防毒
 isOriginal: true

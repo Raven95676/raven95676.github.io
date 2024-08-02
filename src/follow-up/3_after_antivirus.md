@@ -2,7 +2,7 @@
 title: 系统杀毒后异常的处理方式
 author: Raven95676
 date: 2024-07-29
-icon: file
+icon: fas fa-file
 category:
   - 后继措施
 isOriginal: true

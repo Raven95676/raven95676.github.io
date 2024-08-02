@@ -2,7 +2,7 @@
 title: 制作WindowsPE以备不时之需
 author: Raven95676
 date: 2024-07-29
-icon: file
+icon: fas fa-file
 category:
   - 预先防毒
 isOriginal: true

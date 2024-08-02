@@ -8,7 +8,7 @@ export default hopeTheme({
 
   pure: true,
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-M/font-awesome/6.0.0/css/all.min.css",
 
   logo: "https://ooo.0x0.ooo/2024/07/28/ORVf2r.png",
 

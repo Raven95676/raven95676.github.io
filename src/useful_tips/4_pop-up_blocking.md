@@ -2,7 +2,7 @@
 title: 如何进行弹窗拦截
 author: Raven95676
 date: 2024-07-29
-icon: file
+icon: fas fa-file
 category:
   - 实用技巧
 isOriginal: true

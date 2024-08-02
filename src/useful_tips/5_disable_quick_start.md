@@ -2,7 +2,7 @@
 title: Windows内存占用太多/关机后自动重启
 author: Raven95676
 date: 2024-07-29
-icon: file
+icon: fas fa-file
 category:
   - 实用技巧
 isOriginal: true

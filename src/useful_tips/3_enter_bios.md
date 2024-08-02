@@ -2,7 +2,7 @@
 title: 如何进入BIOS/UEFI
 author: false
 date: 2024-07-29
-icon: file
+icon: fas fa-file
 category:
   - 实用技巧
 isOriginal: false

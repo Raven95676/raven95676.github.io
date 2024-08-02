@@ -1,6 +1,6 @@
 ---
 title: 友情链接
-icon: link
+icon: fas fa-link
 ---
 
 - [病毒吧WIKI](https://www.shenapex.xyz/)
