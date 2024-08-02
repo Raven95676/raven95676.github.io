@@ -28,9 +28,9 @@ order: 3
 > [!tip]
 > 当前运行的操作系统必须是Windows 11。
 
-![step 1](https://ooo.0x0.ooo/2024/07/29/ORjhLU.png)
+![[109cf9fd89d86c0340e7710ee0f7f282_MD5.png]]
 
-![step 2](https://ooo.0x0.ooo/2024/07/29/ORjF7p.jpg)
+![[71bc0fbbb73210280a57f33513ed7d6f_MD5.jpg]]
 
 ### 重置此电脑
 
@@ -39,11 +39,11 @@ order: 3
 > [!caution]
 > 如果已加密设备，则需要 BitLocker 密钥才能重置电脑。大多数笔记本电脑品牌都默认启用了BitLocker。
 
-![Windows 10](https://ooo.0x0.ooo/2024/07/29/ORjNlc.jpg)
+![[3f636a250ce45fcf22873a16ccc414db_MD5.jpg]]
 
-![Windows 11](https://ooo.0x0.ooo/2024/07/29/ORjiXY.jpg)
+![[578e76e6b080a14ef25a725c2cadb2d4_MD5.jpg]]
 
-![Windows 8.1](https://ooo.0x0.ooo/2024/07/29/ORj1zv.jpg)
+![[f8947131dc0459226262b97c377cd90a_MD5.jpg]]
 
 若系统设置启动过于缓慢，可以尝试在终端运行：
 
@@ -55,7 +55,7 @@ systemreset -factoryreset
 
 如果能使用云下载，请尽可能使用云下载。
 
-![重置方式](https://ooo.0x0.ooo/2024/07/29/ORj7Pq.jpg)
+![[a25cf2b3df983a90f3a81a5301d95f26_MD5.jpg]]
 
 ## 系统无法启动
 

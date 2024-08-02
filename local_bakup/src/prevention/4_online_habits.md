@@ -72,11 +72,11 @@ order: 4
 
 首先，你得认识UAC长什么样子：
 
-![Windows 11](https://ooo.0x0.ooo/2024/07/28/ORlqea.jpg){width="50%"}
+![[f6b58d0ca537547b42e864e37e50e57b_MD5.jpg]]{width="50%"}
 
-![Windows 7](https://ooo.0x0.ooo/2024/07/28/ORl5ES.png){width="50%"}
+![[21f2b8f4b110465abca638518386c1c0_MD5.png]]{width="50%"}
 
-![Windows 10](https://ooo.0x0.ooo/2024/07/28/ORlBIN.jpg){width="50%"}
+![[f755bffaff996dff709206a3b35ebce4_MD5.jpg]]{width="50%"}
 
 当你看见UAC的时候，代表着这个软件要管理员权限了，请确定你绝对信任软件提供者，否则不要确认。在管理员权限下恶意软件或者恶意命令完全可以直接接管整个系统。
 
@@ -101,9 +101,9 @@ order: 4
 4. 如图，然后点创建
 5. 双击右侧的Administrator，进入，把账户已禁用勾上
 
-![新用户创建页面](https://ooo.0x0.ooo/2024/07/28/ORlxUX.jpg)
+![[e8b29fc5ea628df77aa558a73e96be6c_MD5.jpg]]
 
-![禁用Administrator](https://ooo.0x0.ooo/2024/07/29/ORjKcG.jpg)
+![[e26a98153ea45c63396b60a85f13e795_MD5.jpg]]
 
 > [!note]
 > 本节接受了firedoge的指正
@@ -114,7 +114,7 @@ order: 4
 
 首先，按Windows键+X键（或右键“开始”），点击终端管理员或者PowerShell（管理员）(具体显示哪个都没关系)
 
-![打开管理员权限终端](https://ooo.0x0.ooo/2024/07/28/ORlzyt.jpg)
+![[5f8793091980774daea7580458fcab09_MD5.jpg]]
 
 之后依次执行下面三个命令（这三行命令的作用分别是：添加用户、设置新用户的用户组为管理员、禁用administrator）：
 
@@ -124,7 +124,7 @@ net localgroup administrators 用户名 /add
 net user administrator /active:no
 ```
 
-![命令执行效果](https://ooo.0x0.ooo/2024/07/28/ORliaj.jpg)
+![[cf134b7931aea7d2f341d6351d002e1b_MD5.jpg]]
 
 之后注销账户，或重启电脑，登录新的账户即可。
 
@@ -193,17 +193,17 @@ Windows系统谨慎使用闭源（未开放源代码）的小工具（谁知道�
 
 如果使用百度搜索引擎，官网会有“官方”标识。广告会有“广告”标识。
 
-![百度搜索引擎的结果](https://ooo.0x0.ooo/2024/07/29/ORlYtC.png)
+![[88a86832c484bd8b73f82b88fc65aee1_MD5.png]]
 
 [uBlock Origin、uBlock Origin Lite完全模式](https://ublockorigin.com/)、[Adguard](https://adguard.com/zh_cn/welcome.html)可过滤掉很多虚假广告。
 
-![过滤后的结果](https://ooo.0x0.ooo/2024/07/29/ORlf2L.png)
+![[25482a93fe3d94a18ca2895b4856ca4e_MD5.png]]
 
 ### wallpaper engine 如何防“赛博花柳”
 
 取消勾选应用程序、网页可以避免一切来自wallpaper engine的病毒入侵
 
-![wallpaper engine设置](https://ooo.0x0.ooo/2024/07/29/ORluQp.jpg)
+![[f94913c323f0348c7a7a8f229f1676d9_MD5.jpg]]
 
 ### 如果安卓手机被锁机了怎么办
 

@@ -72,7 +72,7 @@ order: 2
 
 以EasyU<Badge text="具有流氓行为，不推荐使用" type="danger" />为例。其他PE同理（[自定义壁纸](https://www.pixiv.net/artworks/112139971)请忽略）
 
-![360_jijiuxiang_pe_easyu.gif](https://s2.loli.net/2024/07/29/uK1IcRZkzr5FexA.gif)
+![[851e38be5142a0af69c2c6e30233d0c0_MD5.gif]]
 
 ### 方法C
 

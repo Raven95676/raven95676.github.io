@@ -32,7 +32,7 @@ order: 5
 
 缺点：就像名字一样，默认情况下只保护100MB以下的文档（doc、docx、ppt、pptx、xls、xlsx、pdf），不保护图片、视频等，不保护txt。
 
-![恢复页面](https://ooo.0x0.ooo/2024/08/02/OtMFVF.png)
+![[40a2b506823bf19253f8233b1106aa69_MD5.png]]
 
 在被加密后自行恢复即可
 
@@ -48,27 +48,27 @@ order: 5
 >
 > 见到缺点能用这个提示框你应该明白这意味着什么（
 
-![样本在断网的情况下被主防杀](https://ooo.0x0.ooo/2024/08/02/OtM1Qb.png)
+![[8ae968f2d9c2329dc6fbb17c336ee7a3_MD5.png]]
 
-![回滚了被加密的两个文件](https://ooo.0x0.ooo/2024/08/02/OtM73l.png)
+![[355382ad9a03cbc8c6c9dbe8295c5c91_MD5.png]]
 
 附：**K**aspersky **A**nti-**R**ansomware **T**ool的使用指南
 
-![全勾上然后一路Next](https://ooo.0x0.ooo/2024/08/02/OtMprC.png)
+![[ba36b652d0aff308c6b3533182401a2c_MD5.png]]
 
-![关掉引导提示](https://ooo.0x0.ooo/2024/08/02/OtMmqN.png)
+![[c5c37751549660c7df32ac711fed83e0_MD5.png]]
 
-![点击注册](https://ooo.0x0.ooo/2024/08/02/OtMyVS.png)
+![[bad2be1e73b598b96e2b9892285f5bd4_MD5.png]]
 
-![全填上](https://ooo.0x0.ooo/2024/08/02/OtMZbK.png)
+![[46363af149b2a364022324d4aba91239_MD5.png]]
 
-![圈起来的是邮箱收到的要输入的激活码](https://ooo.0x0.ooo/2024/08/02/OtMvma.png)
+![[80df302fdee5d53b40a7c4c05b7cbd63_MD5.png]]
 
-![打开设置](https://ooo.0x0.ooo/2024/08/02/OtMeig.png)
+![[0f331c50708666ed3fca291720a836fb_MD5.png]]
 
-![打开额外的防护](https://ooo.0x0.ooo/2024/08/02/OtMr4B.png)
+![[5a077bc233c587a508247c1de99a2e38_MD5.png]]
 
-![UnBlock是解除警报，Move to trust是移到信任](https://ooo.0x0.ooo/2024/08/02/OtMA2s.png)
+![[eace95c99d2c7e55cae50004adcbcf67_MD5.png]]
 
 
 
