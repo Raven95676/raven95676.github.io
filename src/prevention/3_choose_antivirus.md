@@ -1,5 +1,5 @@
 ---
-title: 如何选择杀毒软件
+title: 关于杀毒软件的选择：360、卡巴与Avast
 author: Raven95676
 date: 2024-07-29
 icon: fas fa-file
@@ -10,10 +10,12 @@ order: 3
 ---
 > [!note]
 > 本文接受了G5125872、shenapex的指正
+>
+> 由于本文主要内容是360、卡巴与Avast，故修改标题。
 
 首先，推荐先去看看病毒吧官方所写的[电脑常见问题汇总解答（病毒吧）](https://docs.qq.com/doc/DSU9mbmt5SHp2YmFS)
 
-## 省流
+## 杀毒软件选择-省流
 
 感谢《电脑常见问题汇总解答（病毒吧）》文档负责人的授权
 
@@ -46,7 +48,7 @@ order: 3
 
 卡巴斯基作为境外的杀毒软件虽然强大且本地化做得不错，但也不可避免地存在一些水土不服的问题。比如，卡巴斯基对境内病毒的反应速度不如国内的杀毒软件快（装机量毕竟没那么大）。
 
-而且，卡巴斯基的扫描能力是它的弱项。这一点在[AV-C恶意软件防护测试 2024 年 3 月](https://www.av-comparatives.org/tests/malware-protection-test-march-2024/)等报告中可以看出。
+而且，卡巴斯基的**离线**扫描能力是它的弱项。这一点在[AV-C恶意软件防护测试 2024 年 3 月](https://www.av-comparatives.org/tests/malware-protection-test-march-2024/)等报告中可以看出。
 
 ![从左到右依次为：没网时的检测率、有网时的检测率、有网时的保护率、误报量](https://ooo.0x0.ooo/2024/07/28/ORfQLY.png)
 
@@ -58,6 +60,8 @@ order: 3
 ![卡巴斯基免费版和付费版的区别](https://ooo.0x0.ooo/2024/07/29/OR9P5t.png)
 
 由“岩浆膏来啦”进行补充的，更详细的查询页面：[卡巴斯基客户支持](https://support.kaspersky.cn/consumer)
+
+另：为啥某些“病毒”卡巴不管呢？因为这些“病毒”除了闪屏、改壁纸别的不会干了……说是病毒，公式不会造成恶劣后果的
 
 ## 关于Avast
 

@@ -36,7 +36,7 @@ order: 5
 
 在被加密后自行恢复即可
 
-### [Kaspersky Anti-Ransomware Tool](https://www.kaspersky.com/anti-ransomware-tool)
+### [Kaspersky Anti-Ransomware Tool](https://www.kaspersky.com/anti-ransomware-tool)（KART）
 
 > [!note]
 > 本软件只能Block（封锁）病毒，需要手动将被封锁的病毒删除。
@@ -52,7 +52,7 @@ order: 5
 
 ![回滚了被加密的两个文件](https://ooo.0x0.ooo/2024/08/02/OtM73l.png)
 
-附：**K**aspersky **A**nti-**R**ansomware **T**ool的使用指南
+附：**K**aspersky **A**nti-**R**ansomware **T**ool（KART）的使用指南
 
 ![全勾上然后一路Next](https://ooo.0x0.ooo/2024/08/02/OtMprC.png)
 

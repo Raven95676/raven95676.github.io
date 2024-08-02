@@ -1,5 +1,5 @@
 ---
-title: 如何选择杀毒软件
+title: 关于杀毒软件的选择：360、卡巴与Avast
 author: Raven95676
 date: 2024-07-29
 icon: fas fa-file

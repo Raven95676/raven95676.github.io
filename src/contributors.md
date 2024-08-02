@@ -26,7 +26,7 @@ icon: fas fa-users
 {
   "title": "shenapex",
   "logo": "https://gss0.baidu.com/7Ls0a8Sm2Q5IlBGlnYG/sys/portrait/item/tb.1.27f1952d.BPB1bF8BCDLri2ImM31jAA",
-  "desc": "对“如何选择杀毒软件”这一文章的时效性提出了修改建议",
+  "desc": "对“关于杀毒软件的选择：360、卡巴与Avast”这一文章的时效性提出了修改建议",
   "background": "rgba(255, 255, 250, 0.15)"
 }
 ```
