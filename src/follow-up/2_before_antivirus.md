@@ -56,9 +56,29 @@ order: 2
 
 ## 在Windows PE中使用
 
+### 方法A <Badge text="推荐" type="tip" />
+
+> [!note]
+> 该方法来自“四海一叶秋”
+
+安装FirPE到本地硬盘，然后重启选择进入PE，由于PE能联网，就打开浏览器下载安装360杀毒（“岩浆膏来啦”在这里是改成用360系统急救箱PE版）或火绒，然后全盘查杀。
+
+### 方法B
+
+可以将360系统急救箱PE版放到Windows PE中使用。
+
 以EasyU<Badge text="具有流氓行为，不推荐使用" type="danger" />为例。其他PE同理（[自定义壁纸](https://www.pixiv.net/artworks/112139971)请忽略）
 
 ![360_jijiuxiang_pe_easyu.gif](https://s2.loli.net/2024/07/29/uK1IcRZkzr5FexA.gif)
+
+### 方法C
+
+> [!important]
+> 从求助者的实际使用情况来看，不能正常启动的情况太多了。
+>
+> 情报来自“岩浆膏来啦”
+
+使用[Kaspersky Rescue Disk](https://www.kaspersky.com.cn/downloads/thank-you/free-rescue-disk)
 
 ## 一切手段全部失效时
 
