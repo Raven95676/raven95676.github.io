@@ -5,6 +5,9 @@ date: 2024-07-29
 icon: fas fa-file
 category:
   - 预先防毒
+tag:
+  - 杀毒软件
+  - 安全实践
 isOriginal: true
 order: 4
 ---

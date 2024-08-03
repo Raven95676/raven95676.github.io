@@ -5,6 +5,9 @@ date: 2024-07-29
 icon: fas fa-file
 category:
   - 实用技巧
+tag:
+  - 故障处理
+  - Windows更新
 isOriginal: true
 order: 6
 ---

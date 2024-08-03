@@ -5,6 +5,11 @@ date: 2024-07-29
 icon: fas fa-file
 category:
   - 预先防毒
+tag:
+  - Windows PE
+  - PE红榜
+  - PE黑榜
+  - 应急恢复
 isOriginal: true
 order: 7
 ---

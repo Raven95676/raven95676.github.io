@@ -5,6 +5,10 @@ date: 2024-07-29
 icon: fas fa-file
 category:
   - 实用技巧
+tag:
+  - BIOS
+  - UEFI
+  - 转载
 isOriginal: false
 order: 3
 ---
