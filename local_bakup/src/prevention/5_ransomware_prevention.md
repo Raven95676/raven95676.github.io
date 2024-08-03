@@ -21,7 +21,7 @@ order: 5
 > [!note]
 > 使用的样本 SHA256为：7de7ce42cde20847749fa5bc4048cf5cacec8c2bf49169d7d262ea38630640ea
 
-在原有杀毒软件的情况下，可以使用安全辅助软件对系统进行布防。关于安全辅助软件，请参阅[正确利用杀软辅助工具](https://raven95676.github.io/prevention/6_auxiliary_antivirus.html)。
+在原有杀毒软件的情况下，可以使用安全辅助软件对系统进行布防。关于安全辅助软件，请参阅[正确利用杀毒软件辅助工具](https://raven95676.github.io/prevention/6_auxiliary_antivirus.html)。
 
 ### [360文档卫士](https://weishi.360.cn/wendangweishi.html)
 
