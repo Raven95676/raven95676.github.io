@@ -5,6 +5,9 @@ date: 2024-07-29
 icon: fas fa-file
 category:
   - 实用技巧
+tag:
+  - Windows激活
+  - Windows版本转换
 isOriginal: true
 order: 2
 ---

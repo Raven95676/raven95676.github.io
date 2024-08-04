@@ -37,7 +37,7 @@ export default hopeTheme({
 
   // 在这里配置主题提供的插件
   plugins: {
-    // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
+    // 注意: 仅用于测试! 各位必须自行生成并在生产环境中使用自己的评论服务
     // comment: {
     //   provider: "Giscus",
     //   repo: "vuepress-theme-hope/giscus-discussions",
@@ -124,7 +124,7 @@ export default hopeTheme({
       // sandpack: true,
     },
 
-    // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
+    // 如果各位需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
     //   favicon: "/favicon.ico",
     //   cacheHTML: true,

@@ -5,6 +5,9 @@ date: 2024-07-29
 icon: fas fa-file
 category:
   - 实用技巧
+tag:
+  - 故障处理
+  - Windows更新
 isOriginal: true
 order: 6
 ---
@@ -21,6 +24,6 @@ order: 6
 
 之后就可以选择性地卸载部分更新了。
 
-或者，你还可以尝试回退到较早版本的Windows。
+或者，各位还可以尝试回退到较早版本的Windows。
 
 ![[825f69b1dc87ff88e0d38607ad618755_MD5.jpg]]
