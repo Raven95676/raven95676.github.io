@@ -75,6 +75,10 @@ order: 5
 
 ![UnBlock是解除警报，Move to trust是移到信任](https://ooo.0x0.ooo/2024/08/02/OtMA2s.png)
 
+### 已知问题
+
+Kaspersky® Anti-Ransomware Tool尤其是在保护全开的情况下会导致sandboxie部分功能无法正常使用。
+
 ## 为什么要备份
 
 > [!important]
