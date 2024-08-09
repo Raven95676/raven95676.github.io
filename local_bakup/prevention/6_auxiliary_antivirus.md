@@ -64,3 +64,7 @@ Kaspersky® Anti-Ransomware Tool是由卡巴斯基实验室出品的，是ksn和
 在保证注意事项全部遵守的情况下，用出事了请联系本人<Raven95676@proton.me>
 
 对于情况三，我不作介绍，因为我不推荐这么干——这么干是执意跟自己的电脑和脑子过不去。
+
+## 已知问题
+
+Kaspersky® Anti-Ransomware Tool尤其是在保护全开的情况下会导致sandboxie部分功能无法正常使用。

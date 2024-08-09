@@ -24,15 +24,15 @@ order: 1
 
 进入设置：
 
-![进入设置](https://ooo.0x0.ooo/2024/07/29/OR98Jb.png)
+![进入设置](https://s2.loli.net/2024/08/09/HspAIh8gwyBU9OG.png)
 
 看着没用的关。
 
-![图例](https://ooo.0x0.ooo/2024/07/29/OR9IBg.png)
-![图例](https://ooo.0x0.ooo/2024/07/29/OR93ZB.png)
-![图例](https://ooo.0x0.ooo/2024/07/29/OR9Xfl.png)
-![图例](https://ooo.0x0.ooo/2024/07/29/ORjO7a.png)
-![图例](https://ooo.0x0.ooo/2024/07/29/ORjMMK.png)
-![图例](https://ooo.0x0.ooo/2024/07/29/ORjaHS.png)
-![图例](https://ooo.0x0.ooo/2024/07/29/ORjoXN.png)
-![图例](https://ooo.0x0.ooo/2024/07/29/ORjBJL.png)
+![图例](https://s2.loli.net/2024/08/09/encbXaOmGfCA6lI.png)
+![图例](https://s2.loli.net/2024/08/09/vJc24m17qoDgIT3.png)
+![图例](https://s2.loli.net/2024/08/09/oJv2WDL8TkyMnFE.png)
+![图例](https://s2.loli.net/2024/08/09/PayKo63wuRgJQI5.png)
+![图例](https://s2.loli.net/2024/08/09/FCJLGnu1Te6UNar.png)
+![图例](https://s2.loli.net/2024/08/09/Ktby3z9DjBea4oR.png)
+![图例](https://s2.loli.net/2024/08/09/TjR8bOQBq39imFn.png)
+![图例](https://s2.loli.net/2024/08/09/3654qIV2tu7NlXw.png)

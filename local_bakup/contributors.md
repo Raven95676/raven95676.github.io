@@ -8,7 +8,7 @@ icon: fas fa-users
 {
   "title": "Raven95676",
   "desc": "欢迎并感谢广大吧友继续提供指正与贡献。",
-  "logo": "https://ooo.0x0.ooo/2024/07/28/ORYabg.jpg",
+  "logo": "https://ooo.0x0.ooo/2024/08/06/OtTLLN.jpg",
   "background": "rgba(255, 255, 250, 0.15)"
 }
 ```

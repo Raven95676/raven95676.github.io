@@ -35,7 +35,7 @@ order: 5
 
 缺点：就像名字一样，默认情况下只保护100MB以下的文档（doc、docx、ppt、pptx、xls、xlsx、pdf），不保护图片、视频等，不保护txt。但是可以通过设置让其支持某个后缀名的文件。
 
-![恢复页面](https://ooo.0x0.ooo/2024/08/02/OtMFVF.png)
+![恢复页面](https://s2.loli.net/2024/08/09/TaML9NieHmzIbAg.png)
 
 在被加密后自行恢复即可
 
@@ -53,31 +53,31 @@ order: 5
 >
 > 见到缺点能用这个提示框各位应该明白这意味着什么（
 
-![样本在断网的情况下被主防杀](https://ooo.0x0.ooo/2024/08/02/OtM1Qb.png)
+![样本在断网的情况下被主防杀](https://s2.loli.net/2024/08/09/Zu2GJt34zmwYR6I.png)
 
-![回滚了被加密的两个文件](https://ooo.0x0.ooo/2024/08/02/OtM73l.png)
+![回滚了被加密的两个文件](https://s2.loli.net/2024/08/09/VJWYM8boTSm2xzn.png)
 
 附：**K**aspersky **A**nti-**R**ansomware **T**ool（KART）的使用指南
 
-![全勾上然后一路Next](https://ooo.0x0.ooo/2024/08/02/OtMprC.png)
+![全勾上然后一路Next](https://s2.loli.net/2024/08/09/eO9WbIsH7Q1q5Lc.png)
 
-![关掉引导提示](https://ooo.0x0.ooo/2024/08/02/OtMmqN.png)
+![关掉引导提示](https://s2.loli.net/2024/08/09/dJXyRitCFBnpYaE.png)
 
-![点击注册](https://ooo.0x0.ooo/2024/08/02/OtMyVS.png)
+![点击注册](https://s2.loli.net/2024/08/09/fu4vmwQBnULhAIx.png)
 
-![全填上](https://ooo.0x0.ooo/2024/08/02/OtMZbK.png)
+![全填上](https://s2.loli.net/2024/08/09/IUgCWep2VPMRoT3.png)
 
-![圈起来的是邮箱收到的要输入的激活码](https://ooo.0x0.ooo/2024/08/02/OtMvma.png)
+![圈起来的是邮箱收到的要输入的激活码](https://s2.loli.net/2024/08/09/CBF6xbywXEjuv3p.png)
 
-![打开设置](https://ooo.0x0.ooo/2024/08/02/OtMeig.png)
+![打开设置](https://s2.loli.net/2024/08/09/lWYfGEFZBeIvdMa.png)
 
-![打开额外的防护](https://ooo.0x0.ooo/2024/08/02/OtMr4B.png)
+![打开额外的防护](https://s2.loli.net/2024/08/09/AMXNh5JWE1OBd7P.png)
 
 ![UnBlock是解除警报，Move to trust是移到信任](https://ooo.0x0.ooo/2024/08/02/OtMA2s.png)
 
 ### 已知问题
 
-Kaspersky® Anti-Ransomware Tool尤其是在保护全开的情况下会导致sandboxie部分功能无法正常使用。
+Kaspersky® Anti-Ransomware Tool尤其是在打开额外的防护的情况下会导致sandboxie部分功能无法正常使用。
 
 ## 为什么要备份
 
@@ -91,6 +91,12 @@ Kaspersky® Anti-Ransomware Tool尤其是在保护全开的情况下会导致san
 在这种情况下，最坏的结果是，文件可能永远无法恢复。因此，备份是防止数据丢失的最可靠手段。
 
 爷爷/奶奶，你当年被加密的文件的解密工具出现啦（bushi
+
+## 正确备份很重要
+
+跳转链接：[正确备份很重要](https://raven95676.github.io/prevention/8_correct_backup_method.html)
+
+制作 By shenapex
 
 ## 利用离机备份保护重要文件 <Badge text="推荐" type="tip" />
 
@@ -117,7 +123,7 @@ OneDrive免费提供5G存储空间，免费5G，购买Microsoft 365之后会升�
 
 直接集成在Windows文件管理器中，可与Windows无缝衔接。
 
-![OneDrive设置流程](https://ooo.0x0.ooo/2024/08/03/OtOAMq.png)
+![OneDrive设置流程](https://s2.loli.net/2024/08/09/Ka6JxeimhU9ck3w.png)
 
 **个人保管库**：个人保管库（锁定状态下）中的文件不会受到勒索病毒的侵扰——可惜免费版只能往里放3个文件。
 
@@ -125,7 +131,7 @@ OneDrive免费提供5G存储空间，免费5G，购买Microsoft 365之后会升�
 
 （前提：onedrive还能运行。不能运行的话需要将系统恢复到能运行onedrive的状态）
 
-![OneDrive恢复流程](https://ooo.0x0.ooo/2024/08/03/OtOe0v.png)
+![OneDrive恢复流程](https://s2.loli.net/2024/08/09/Sp8nDFRgiP6QHEd.png)
 
 1. 如果源文件被删除，可以通过网页版的“回收站”恢复。
 2. 如果文件被覆盖，可以在文件历史版本中进行恢复。

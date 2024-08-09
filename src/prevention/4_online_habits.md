@@ -74,11 +74,11 @@ order: 4
 
 首先，各位得认识UAC长什么样子：
 
-![Windows 11](https://ooo.0x0.ooo/2024/07/28/ORlqea.jpg){width="50%"}
+![Windows 11](https://s2.loli.net/2024/08/09/Elux9WDcoejtpU6.jpg){width="50%"}
 
-![Windows 7](https://ooo.0x0.ooo/2024/07/28/ORl5ES.png){width="50%"}
+![Windows 7](https://s2.loli.net/2024/08/09/vY3t51zPkZnJMxh.png){width="50%"}
 
-![Windows 10](https://ooo.0x0.ooo/2024/07/28/ORlBIN.jpg){width="50%"}
+![Windows 10](https://s2.loli.net/2024/08/09/US35CJsTyrhvqeA.jpg){width="50%"}
 
 > 用户帐户控制 (UAC) 是一项 Windows 安全功能，旨在保护操作系统免受未经授权的更改。 当对系统的更改需要管理员级权限时，UAC 会通知用户，从而让用户有机会批准或拒绝更改。 UAC 通过限制恶意代码拥有的以管理员权限执行的访问权限来提高 Windows 设备的安全性。 UAC 使用户能够就可能影响设备稳定性和安全性的操作做出明智的决策。
 >
@@ -107,9 +107,9 @@ order: 4
 4. 如图，然后点创建
 5. 双击右侧的Administrator，进入，把账户已禁用勾上
 
-![新用户创建页面](https://ooo.0x0.ooo/2024/07/28/ORlxUX.jpg)
+![新用户创建页面](https://s2.loli.net/2024/08/09/lMwTUYp1Ces92Ny.jpg)
 
-![禁用Administrator](https://ooo.0x0.ooo/2024/07/29/ORjKcG.jpg)
+![禁用Administrator](https://s2.loli.net/2024/08/09/BuMZeiUaw6z841J.jpg)
 
 > [!note]
 > 本节接受了firedoge的指正
@@ -120,7 +120,7 @@ order: 4
 
 首先，按Windows键+X键（或右键“开始”），点击终端管理员或者PowerShell（管理员）(具体显示哪个都没关系)
 
-![打开管理员权限终端](https://ooo.0x0.ooo/2024/07/28/ORlzyt.jpg)
+![打开管理员权限终端](https://s2.loli.net/2024/08/09/gWyspd5Cvw7bVPH.jpg)
 
 之后依次执行下面三个命令（这三行命令的作用分别是：添加用户、设置新用户的用户组为管理员、禁用administrator）：
 
@@ -130,7 +130,7 @@ net localgroup administrators 用户名 /add
 net user administrator /active:no
 ```
 
-![命令执行效果](https://ooo.0x0.ooo/2024/07/28/ORliaj.jpg)
+![命令执行效果](https://s2.loli.net/2024/08/09/vXhDcMiU7C1OfaT.jpg)
 
 之后注销账户，或重启电脑，登录新的账户即可。
 
@@ -220,11 +220,11 @@ Windows系统谨慎使用闭源（未开放源代码）的小工具（谁知道�
 
 如果使用百度搜索引擎，官网会有“官方”标识。广告会有“广告”标识。
 
-![百度搜索引擎的结果](https://ooo.0x0.ooo/2024/07/29/ORlYtC.png)
+![百度搜索引擎的结果](https://s2.loli.net/2024/08/09/fL1ZIycUFBdCo2q.png)
 
 [uBlock Origin、uBlock Origin Lite完全模式](https://ublockorigin.com/)、[Adguard](https://adguard.com/zh_cn/welcome.html)可过滤掉很多虚假广告。
 
-![过滤后的结果](https://ooo.0x0.ooo/2024/07/29/ORlf2L.png)
+![过滤后的结果](https://s2.loli.net/2024/08/09/De6rWqyNTRcYE9p.png)
 
 ### 听不懂怎么办
 
@@ -238,7 +238,7 @@ Windows安装使用[火绒应用商店](https://www.huorong.cn/app_store.html)�
 
 取消勾选应用程序、网页可以避免一切来自wallpaper engine的病毒入侵
 
-![wallpaper engine设置](https://ooo.0x0.ooo/2024/07/29/ORluQp.jpg)
+![wallpaper engine设置](https://s2.loli.net/2024/08/09/VGhWf1q9NQTBiEv.jpg)
 
 ## 避免使用浏览器储存密码
 
@@ -252,5 +252,5 @@ Windows安装使用[火绒应用商店](https://www.huorong.cn/app_store.html)�
 ## 杂项
 
 - 控制自己的好奇心，不要点击未知邮件的附件。
-
 - 输入自己的个人信息前，请再三确认是否为官方网站、官方页面。
+- 手机相册，尤其是安卓手机相册别存隐私信息

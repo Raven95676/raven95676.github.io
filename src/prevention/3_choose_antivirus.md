@@ -24,7 +24,7 @@ order: 3
 
 感谢《电脑常见问题汇总解答（病毒吧）》文档负责人的授权
 
-![2024-08-01截取，已获得转载授权](https://ooo.0x0.ooo/2024/08/01/OR3XAL.png)
+![2024-08-01截取，已获得转载授权](https://s2.loli.net/2024/08/09/LKwOqTxkaSgAdM1.png)
 
 ## 360的优势与劣势
 
@@ -55,7 +55,7 @@ order: 3
 
 而且，卡巴斯基的**离线**扫描能力是它的弱项。这一点在[AV-C恶意软件防护测试 2024 年 3 月](https://www.av-comparatives.org/tests/malware-protection-test-march-2024/)等报告中可以看出。
 
-![从左到右依次为：没网时的检测率、有网时的检测率、有网时的保护率、误报量](https://ooo.0x0.ooo/2024/07/28/ORfQLY.png)
+![从左到右依次为：没网时的检测率、有网时的检测率、有网时的保护率、误报量](https://s2.loli.net/2024/08/09/5dHw8zJrxIjyph6.png)
 
 > [!tip]
 > 检测率指单纯扫描的检测率，保护率才是主防测试

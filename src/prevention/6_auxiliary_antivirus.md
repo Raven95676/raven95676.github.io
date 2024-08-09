@@ -67,4 +67,4 @@ Kaspersky® Anti-Ransomware Tool是由卡巴斯基实验室出品的，是ksn和
 
 ## 已知问题
 
-Kaspersky® Anti-Ransomware Tool尤其是在保护全开的情况下会导致sandboxie部分功能无法正常使用。
+Kaspersky® Anti-Ransomware Tool尤其是在打开额外的防护的情况下会导致sandboxie部分功能无法正常使用。

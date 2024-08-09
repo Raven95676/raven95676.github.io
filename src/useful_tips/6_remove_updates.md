@@ -18,12 +18,12 @@ order: 6
 >
 > 人话：[为了修复CVE-2023-24932漏洞发布的kb5025885补丁包](https://support.microsoft.com/zh-cn/topic/kb5025885-%E5%A6%82%E4%BD%95%E9%92%88%E5%AF%B9%E4%B8%8E-cve-2023-24932-%E5%85%B3%E8%81%94%E7%9A%84%E5%AE%89%E5%85%A8%E5%90%AF%E5%8A%A8%E6%9B%B4%E6%94%B9%E7%AE%A1%E7%90%86-windows-%E5%BC%95%E5%AF%BC%E7%AE%A1%E7%90%86%E5%99%A8%E5%90%8A%E9%94%80-41a975df-beb2-40c1-99a3-b3ff139f832d)把安全启动的其中一个证书吊销了，还原到安装这个补丁包之前的版本会导致系统无法启动。
 
-![step 1](https://ooo.0x0.ooo/2024/07/29/ORjzMj.jpg)
+![step 1](https://s2.loli.net/2024/08/09/PNdopf5eFBMVGWT.jpg)
 
-![step 2](https://ooo.0x0.ooo/2024/07/29/ORjbZt.jpg)
+![step 2](https://s2.loli.net/2024/08/09/482hC9AGs3ijtzD.jpg)
 
 之后就可以选择性地卸载部分更新了。
 
 或者，各位还可以尝试回退到较早版本的Windows。
 
-![step 3](https://ooo.0x0.ooo/2024/07/29/ORjkcx.jpg)
+![step 3](https://s2.loli.net/2024/08/09/ZSP74AlEqDfNYhg.jpg)
