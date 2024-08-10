@@ -2,7 +2,7 @@
 home: true
 icon: fas fa-home
 title: 主页
-heroImage: https://ooo.0x0.ooo/2024/07/28/ORVf2r.png
+heroImage: https://pic.imgdb.cn/item/66b71257d9c307b7e999babe.png
 heroText: 非官方病毒吧Windows FAQ
 tagline: 这里是吧友们可能会问的问题，非病毒吧官网。
 actions:
