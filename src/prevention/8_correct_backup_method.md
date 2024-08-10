@@ -27,7 +27,7 @@ order: 8
 
 速通展开——
 
-![坐杀流程（bushi](https://s2.loli.net/2024/08/09/THzXpgnbtrIKOPA.jpg)
+![坐杀流程（bushi](https://pic.imgdb.cn/item/66b70d0fd9c307b7e98d60a5.jpg)
 
 1. 一定要提前备份！提前备份！提前备份！
 2. 不要只把备份文件在一处地方！！一定要分开多存几处，最好是能单独买块硬盘隔离存贮，备份完之后断开连接保存，需要备份时再连接{style=color:red;}

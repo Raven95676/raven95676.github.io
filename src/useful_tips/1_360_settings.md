@@ -24,15 +24,15 @@ order: 1
 
 进入设置：
 
-![进入设置](https://s2.loli.net/2024/08/09/HspAIh8gwyBU9OG.png)
+![进入设置](https://pic.imgdb.cn/item/66b70d7cd9c307b7e98dc434.png)
 
 看着没用的关。
 
-![图例](https://s2.loli.net/2024/08/09/encbXaOmGfCA6lI.png)
-![图例](https://s2.loli.net/2024/08/09/vJc24m17qoDgIT3.png)
-![图例](https://s2.loli.net/2024/08/09/oJv2WDL8TkyMnFE.png)
-![图例](https://s2.loli.net/2024/08/09/PayKo63wuRgJQI5.png)
-![图例](https://s2.loli.net/2024/08/09/FCJLGnu1Te6UNar.png)
-![图例](https://s2.loli.net/2024/08/09/Ktby3z9DjBea4oR.png)
-![图例](https://s2.loli.net/2024/08/09/TjR8bOQBq39imFn.png)
-![图例](https://s2.loli.net/2024/08/09/3654qIV2tu7NlXw.png)
+![图例](https://pic.imgdb.cn/item/66b70d88d9c307b7e98dd05a.png)
+![图例](https://pic.imgdb.cn/item/66b70d97d9c307b7e98ddd19.png)
+![图例](https://pic.imgdb.cn/item/66b70da0d9c307b7e98de6fc.png)
+![图例](https://pic.imgdb.cn/item/66b70da8d9c307b7e98df0f5.png)
+![图例](https://pic.imgdb.cn/item/66b70db0d9c307b7e98df9b7.png)
+![图例](https://pic.imgdb.cn/item/66b70db8d9c307b7e98e037a.png)
+![图例](https://pic.imgdb.cn/item/66b70dc2d9c307b7e98e0e5e.png)
+![图例](https://pic.imgdb.cn/item/66b70dc7d9c307b7e98e14b0.png)

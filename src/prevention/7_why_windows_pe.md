@@ -35,7 +35,7 @@ order: 7
 
 PE盘制作方式参照下图：
 
-![制作方法](https://s2.loli.net/2024/08/09/CzqYcdUBsZp6lEK.gif)
+![制作方法](https://pic.imgdb.cn/item/66b70ca1d9c307b7e98cfbc3.gif)
 
 如需使用该pe重置系统，请参照：[安装器方法安装原版Windows](https://www.wepe.com.cn/ubook/installtool.html)
 
@@ -67,11 +67,11 @@ PE盘制作方式参照[Firpe官网教程](https://firpe.cn/page-397)
 
 推荐修改其安装设置，为了获得较为安全的系统设置以及相对清爽的体验，下面是建议的勾选：
 
-![操作流程](https://s2.loli.net/2024/08/09/ufHBlNWbU9KCn7E.gif)
+![操作流程](https://pic.imgdb.cn/item/66b70cb5d9c307b7e98d1032.gif)
 
-![首页勾选](https://s2.loli.net/2024/08/09/wgeWQRiM3r95U24.png)
+![首页勾选](https://pic.imgdb.cn/item/66b70ccfd9c307b7e98d25ae.png)
 
-![更多设置勾选](https://s2.loli.net/2024/08/09/EbxYOjGVgoQID5T.png)
+![更多设置勾选](https://pic.imgdb.cn/item/66b70cd9d9c307b7e98d2efa.png)
 
 下面是我为什么不建议勾选某些选项：
 
@@ -93,7 +93,7 @@ PE盘制作方式参照[Firpe官网教程](https://firpe.cn/page-397)
 > [!warning]
 > 该PE在安装系统时（EIX系统安装）存在修改主页为2345的行为。但可以通过取消勾选避免。
 >
-> ![时不时出现的流氓选项](https://s2.loli.net/2024/08/09/4RzcBvq8ItkpZXr.png)
+> ![时不时出现的流氓选项](https://pic.imgdb.cn/item/66b70cebd9c307b7e98d4116.png)
 >
 > 其旗下产品万能驱动在未经捆绑屏蔽处理前不能在除EasyU以外的任何环境下运行，否则会释放2345全家桶。
 
@@ -109,7 +109,7 @@ PE盘制作没什么好说的，如果不懂程序界面是什么意思，在保
 
 重置系统方法参照下图：
 
-![system_reset_easyu.gif](https://s2.loli.net/2024/08/09/vfRIcOqt8yAUjsJ.gif)
+![system_reset_easyu.gif](https://pic.imgdb.cn/item/66b70cf8d9c307b7e98d4c79.gif)
 
 系统镜像将在左侧“恢复镜像”栏显示。
 

@@ -71,7 +71,7 @@ order: 2
 
 **360系统急救箱PE版的使用方式：**（[自定义壁纸](https://www.pixiv.net/artworks/112139971)请忽略）
 
-![360_jijiuxiang_pe_easyu](https://s2.loli.net/2024/08/09/FR3XIKJ4Nn1j27o.gif)
+![360_jijiuxiang_pe_easyu](https://pic.imgdb.cn/item/66b706b0d9c307b7e986d0a9.gif)
 
 另：个人建议先用360杀毒，无法处理时再使用360系统急救箱PE版。毕竟360系统急救箱可以说是六亲不认的类型（
 

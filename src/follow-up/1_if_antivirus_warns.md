@@ -21,6 +21,8 @@ order: 1
 
 [自动播放功能关闭方式](https://zhuanlan.zhihu.com/p/340433965)
 
+[家庭版系统自动播放功能关闭方式](https://jingyan.baidu.com/article/335530da57466858cb41c39d.html)
+
 如果自动播放功能未关闭，请务必全盘扫描
 
 如果报毒位置并非上述情况，立刻打开杀毒软件进行全盘扫描。

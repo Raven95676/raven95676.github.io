@@ -33,9 +33,9 @@ order: 3
 >
 > 有时候镜像升级不会修复系统注册表——来自“四海一叶秋”
 
-![step 1](https://s2.loli.net/2024/08/09/JZbIdwXQFqy3kGl.png)
+![step 1](https://pic.imgdb.cn/item/66b706e3d9c307b7e98703ed.png)
 
-![step 2](https://s2.loli.net/2024/08/09/2qDBeE5HTXhkOyQ.jpg)
+![step 2](https://pic.imgdb.cn/item/66b706e6d9c307b7e98706af.jpg)
 
 ### 重置此电脑
 
@@ -44,11 +44,11 @@ order: 3
 > [!caution]
 > 如果已加密设备，则需要 BitLocker 密钥才能重置电脑。大多数笔记本电脑品牌都默认启用了BitLocker。
 
-![Windows 10](https://s2.loli.net/2024/08/09/omhezxfiAg8MYV6.jpg)
+![Windows 10](https://pic.imgdb.cn/item/66b7078ed9c307b7e987a60e.jpg)
 
-![Windows 11](https://s2.loli.net/2024/08/09/9kgluBm5IeO6PvV.jpg)
+![Windows 11](https://pic.imgdb.cn/item/66b7079ad9c307b7e987b454.jpg)
 
-![Windows 8.1](https://s2.loli.net/2024/08/09/flvkjGztF58YPCJ.jpg)
+![Windows 8.1](https://pic.imgdb.cn/item/66b707efd9c307b7e9880cf5.jpg)
 
 若系统设置启动过于缓慢，可以尝试在终端运行：
 
@@ -60,7 +60,7 @@ systemreset -factoryreset
 
 如果能使用云下载，请尽可能使用云下载。
 
-![重置方式](https://s2.loli.net/2024/08/09/WlrPst7fTGa43nc.jpg)
+![重置方式](https://pic.imgdb.cn/item/66b7083bd9c307b7e9885715.jpg)
 
 ## 系统无法启动
 

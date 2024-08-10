@@ -7,7 +7,7 @@ icon: fas fa-users
 ```component VPCard
 {
   "title": "Raven95676",
-  "logo": "https://s2.loli.net/2024/08/09/JElbaf6Y1nKeVAo.jpg",
+  "logo": "https://pic.imgdb.cn/item/66b70e9ed9c307b7e98ef216.jpg",
   "background": "rgba(255, 255, 250, 0.15)"
 }
 ```

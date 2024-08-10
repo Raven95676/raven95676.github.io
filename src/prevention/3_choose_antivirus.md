@@ -24,7 +24,7 @@ order: 3
 
 感谢《电脑常见问题汇总解答（病毒吧）》文档负责人的授权
 
-![2024-08-01截取，已获得转载授权](https://s2.loli.net/2024/08/09/LKwOqTxkaSgAdM1.png)
+![2024-08-01截取，已获得转载授权](https://pic.imgdb.cn/item/66b709f9d9c307b7e98a20b9.png)
 
 ## 360的优势与劣势
 
@@ -55,14 +55,14 @@ order: 3
 
 而且，卡巴斯基的**离线**扫描能力是它的弱项。这一点在[AV-C恶意软件防护测试 2024 年 3 月](https://www.av-comparatives.org/tests/malware-protection-test-march-2024/)等报告中可以看出。
 
-![从左到右依次为：没网时的检测率、有网时的检测率、有网时的保护率、误报量](https://s2.loli.net/2024/08/09/5dHw8zJrxIjyph6.png)
+![从左到右依次为：没网时的检测率、有网时的检测率、有网时的保护率、误报量](https://pic.imgdb.cn/item/66b70a0dd9c307b7e98a40b0.png)
 
 > [!tip]
 > 检测率指单纯扫描的检测率，保护率才是主防测试
 
 卡巴斯基同时具有免费版和付费版，其区别为（引自[卡巴斯基免费版常见问题](https://www.kaspersky.com.cn/blog/kaspersky-free-faq/8245/)）：
 
-![卡巴斯基免费版和付费版的区别](https://ooo.0x0.ooo/2024/07/29/OR9P5t.png)
+![卡巴斯基免费版和付费版的区别](https://pic.imgdb.cn/item/66b70a17d9c307b7e98a4faf.png)
 
 由“岩浆膏来啦”进行补充的，更详细的查询页面：[卡巴斯基客户支持](https://support.kaspersky.cn/consumer)
 

@@ -30,12 +30,14 @@ order: 5
 
 > [!caution]
 > 需要保证在勒索软件彻底清除完成的情况下才能进行还原，否则还原后的文件将继续被加密。
+>
+> 360文档卫士只防加密文件类勒索。
 
 优点：在文档作出更改时自动备份文档，除非文档卫士本身遭到针对性攻击，不然备份文件基本上是安全的。
 
-缺点：就像名字一样，默认情况下只保护100MB以下的文档（doc、docx、ppt、pptx、xls、xlsx、pdf），不保护图片、视频等，不保护txt。但是可以通过设置让其支持某个后缀名的文件。 ==**并且只防加密文件类勒索。**==
+缺点：就像名字一样，默认情况下只保护100MB以下的文档（doc、docx、ppt、pptx、xls、xlsx、pdf），不保护图片、视频等，不保护txt。但是可以通过设置让其支持某个后缀名的文件。 
 
-![恢复页面](https://s2.loli.net/2024/08/09/TaML9NieHmzIbAg.png)
+![恢复页面](https://pic.imgdb.cn/item/66b70b67d9c307b7e98ba6c6.png)
 
 在被加密后自行恢复即可
 
@@ -50,32 +52,34 @@ order: 5
 
 缺点：回滚不是万能的。存在病毒造成了破坏但是杀毒软件没有识别到或者没有成功回滚的可能。
 
-![样本在断网的情况下被主防杀](https://s2.loli.net/2024/08/09/Zu2GJt34zmwYR6I.png)
+![样本在断网的情况下被主防杀](https://pic.imgdb.cn/item/66b70bc3d9c307b7e98c0866.png)
 
-![回滚了被加密的两个文件](https://s2.loli.net/2024/08/09/VJWYM8boTSm2xzn.png)
+![回滚了被加密的两个文件](https://pic.imgdb.cn/item/66b70bfdd9c307b7e98c50bb.png)
 
 附：**K**aspersky **A**nti-**R**ansomware **T**ool（KART）的使用指南
 
-![全勾上然后一路Next](https://s2.loli.net/2024/08/09/eO9WbIsH7Q1q5Lc.png)
+![全勾上然后一路Next](https://pic.imgdb.cn/item/66b70c18d9c307b7e98c6799.png)
 
-![关掉引导提示](https://s2.loli.net/2024/08/09/dJXyRitCFBnpYaE.png)
+![关掉引导提示](https://pic.imgdb.cn/item/66b70c26d9c307b7e98c7362.png)
 
-![点击注册](https://s2.loli.net/2024/08/09/fu4vmwQBnULhAIx.png)
+![点击注册](https://pic.imgdb.cn/item/66b70c31d9c307b7e98c7d7a.png)
 
-![全填上](https://s2.loli.net/2024/08/09/IUgCWep2VPMRoT3.png)
+![全填上](https://pic.imgdb.cn/item/66b70c3ed9c307b7e98c89a7.png)
 
-![圈起来的是邮箱收到的要输入的激活码](https://s2.loli.net/2024/08/09/CBF6xbywXEjuv3p.png)
+![圈起来的是邮箱收到的要输入的激活码](https://pic.imgdb.cn/item/66b70c46d9c307b7e98c9212.png)
 
-![打开设置](https://s2.loli.net/2024/08/09/lWYfGEFZBeIvdMa.png)
+![打开设置](https://pic.imgdb.cn/item/66b70c5bd9c307b7e98ca6a7.png)
 
-![打开额外的防护](https://s2.loli.net/2024/08/09/AMXNh5JWE1OBd7P.png)
+![打开额外的防护](https://pic.imgdb.cn/item/66b70c63d9c307b7e98cad53.png)
 
-![UnBlock是解除警报，Move to trust是移到信任](https://ooo.0x0.ooo/2024/08/02/OtMA2s.png)
+![UnBlock是解除警报，Move to trust是移到信任](https://pic.imgdb.cn/item/66b70c6bd9c307b7e98cb40e.png)
 
 ### [瑞星之剑](https://www.rising.com.cn/j/)
 
 > [!note]
 > 本推荐条目来自于“岩浆膏来啦”
+>
+> 本软件只能禁止病毒运行，并改病毒后缀，需要手动将病毒删除。
 >
 > 瑞星之剑现在还在维护。
 
@@ -131,7 +135,7 @@ OneDrive免费提供5G存储空间，免费5G，购买Microsoft 365之后会升�
 
 直接集成在Windows文件管理器中，可与Windows无缝衔接。
 
-![OneDrive设置流程](https://s2.loli.net/2024/08/09/Ka6JxeimhU9ck3w.png)
+![OneDrive设置流程](https://pic.imgdb.cn/item/66b70c80d9c307b7e98cc9e6.png)
 
 **个人保管库**：个人保管库（锁定状态下）中的文件不会受到勒索病毒的侵扰——可惜免费版只能往里放3个文件。
 
@@ -139,7 +143,7 @@ OneDrive免费提供5G存储空间，免费5G，购买Microsoft 365之后会升�
 
 （前提：onedrive还能运行。不能运行的话需要将系统恢复到能运行onedrive的状态）
 
-![OneDrive恢复流程](https://s2.loli.net/2024/08/09/Sp8nDFRgiP6QHEd.png)
+![OneDrive恢复流程](https://pic.imgdb.cn/item/66b70c89d9c307b7e98cdd18.png)
 
 1. 如果源文件被删除，可以通过网页版的“回收站”恢复。
 2. 如果文件被覆盖，可以在文件历史版本中进行恢复。
