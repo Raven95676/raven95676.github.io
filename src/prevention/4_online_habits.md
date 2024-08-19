@@ -226,6 +226,10 @@ Windows系统谨慎使用闭源（未开放源代码）的小工具（谁知道�
 
 ![过滤后的结果](https://pic.imgdb.cn/item/66b70aefd9c307b7e98b13de.png)
 
+此外，卡巴斯基等杀毒软件提供了校验网站安全性的功能。
+
+![校验网站安全性](https://pic.imgdb.cn/item/66c319d9d9c307b7e9f42b73.png)
+
 ### 听不懂怎么办
 
 Windows安装使用[火绒应用商店](https://www.huorong.cn/app_store.html)。至少不会下载到病毒。
