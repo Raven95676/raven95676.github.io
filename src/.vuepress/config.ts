@@ -12,7 +12,13 @@ export default defineUserConfig({
   title: "非官方病毒吧Windows FAQ",
   description: "这里是吧友们可能会问的问题，非病毒吧官方网站。",
   head: [
-    ['meta',{'name':'google-site-verification','content':'1YEe1_R0CLvOH_wRVjwtCU0jZ-KnLk7KubhPM9kiaV0'}],
+    [
+      'script', {}, `
+      (function() {
+        location.href = 'https://faq.ravenote.top/'
+      })();
+      `
+    ],
     ['meta', { name: 'keywords', content: '计算机安全,小白教程,教程,计算机'}]
   ],
 
